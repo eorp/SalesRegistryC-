@@ -1,10 +1,11 @@
-# SalesRegistryC#
+# SalesRegistryCSharp
 Final project for C# II course
 
 Sales registry allowing to add, edit and delete customer records, sort records, print invoices and sales reports for selected time period
 Most companies have a need to maintain information about their customers and/ or sales.
 
-The main purpose of the Customer Registry application is to enable company's personnel to add, edit and delete records containing information about its customers and sales details. Originally, similar application was written in C#. This is a Java application developed using MVC design.
+The main purpose of the Customer Registry application is to enable company's personnel to add, edit and delete records containing information about its customers and sales details. 
+
 All records are saved in XML file upon application closing, and records manipulations (add, edit, delete).
 
 Additional features include:
